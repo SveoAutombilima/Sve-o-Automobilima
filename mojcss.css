@@ -1,0 +1,42 @@
+body{
+	background:black;
+	
+}
+h1{
+	color:red;
+}
+h2{
+	color:red;
+}
+p{color: yellow;}
+ul{
+	color:yellow;
+
+}
+ol{
+	color:yellow;
+}
+.jedino-ul{
+	list-style-type:none;
+margin:opx;
+padding:0px;
+background:yellow;
+overflow:hidden;
+}
+.jedna-li{
+	float:left;
+}
+.dada-lia{
+	display:block;
+	background:yellow;
+    color:black;
+	padding:5px;
+	text-decoration:none;
+	height:30px;
+	font-size:20px;
+	
+}
+.dada-lia:hover{
+	background:red;
+	color;yellow;
+}
